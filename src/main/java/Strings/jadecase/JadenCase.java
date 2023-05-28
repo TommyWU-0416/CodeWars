@@ -1,4 +1,4 @@
-package Strings;
+package Strings.jadecase;
 
 public class JadenCase {
 

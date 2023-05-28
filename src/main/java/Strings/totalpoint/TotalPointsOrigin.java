@@ -1,8 +1,9 @@
-package Strings;
+package Strings.totalpoint;
 
-import java.util.Arrays;
-
-public class TotalPoints {
+/**
+ * https://www.codewars.com/kata/5bb904724c47249b10000131
+ */
+public class TotalPointsOrigin {
 
     public static int points(String[] games) {
         //implement me

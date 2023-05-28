@@ -1,6 +1,9 @@
-package Strings;
+package Strings.jadecase;
 
-public class JadenCase {
+/**
+ * https://www.codewars.com/kata/5390bac347d09b7da40006f6
+ */
+public class JadenCaseOrigin {
 
     public String toJadenCase(String phrase) {
         // TODO put your code below this comment
